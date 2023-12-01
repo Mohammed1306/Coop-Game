@@ -1,27 +1,27 @@
 # Pico Park 3D
 
-Pico Park 3D is a 3D game inspired by the original concept of Pico Park. This solo project aims to transpose the essence of Pico Park into a three-dimensional world, offering a reimagined and immersive gaming experience.
+Pico Park 3D est un jeu en 3D inspiré du concept original de Pico Park. Ce projet, fruit de mes efforts en solitaire, vise à transposer l'essence de Pico Park dans un univers tridimensionnel, offrant une expérience de jeu repensée et immersive.
 
-## Key Features
+## Caractéristiques Principales
 
-- **3D Transposition:** The game introduces an innovative transition from the Pico Park concept to a 3D environment, exploring new dimensions of gameplay and player interaction.
+- **Transposition 3D :** Le jeu présente une transition innovante du concept de Pico Park vers un environnement en 3D, explorant de nouvelles dimensions de gameplay et d'interaction entre les joueurs.
   
-- **Collaborative Puzzles:** Embracing Pico Park's core idea of collaboration, this 3D version offers puzzles and challenges that require close cooperation among players to progress in the game.
+- **Puzzles Collaboratifs :** Reprenant l'idée centrale de collaboration de Pico Park, cette version en 3D propose des énigmes et des défis nécessitant une coopération étroite entre les joueurs pour avancer dans le jeu.
   
-- **Variety of Levels:** Multiple levels offer unique challenges, leveraging the possibilities of 3D for puzzles based on perspective and environmental manipulation.
+- **Variété des Niveaux :** De multiples niveaux offrent des défis uniques, exploitant les possibilités de la 3D pour des énigmes basées sur la perspective et la manipulation de l'environnement.
 
-## Design and Development
+## Conception et Développement
 
-I undertook the complete development of the game, from initial conception to final execution, encompassing code, graphics, and UI.
+J'ai entrepris le développement complet du jeu, allant de la conception initiale à la réalisation finale, incluant le code, les graphismes et l'IU.
 
-### Development in C#
+### Développement en C#
 
-The entire project was coded using the C# language. Here are some of the features I implemented:
+L'intégralité du projet a été codée en utilisant le langage C#. Voici quelques-unes des fonctionnalités que j'ai implémentées :
 
-- **3D Perspective Mechanisms:** Creating mechanisms to leverage depth and perspective in 3D was crucial for the game's puzzles, offering an immersive and innovative gameplay experience.
+- **Mécanismes de Perspective 3D :** La création de mécanismes pour exploiter la profondeur et la perspective en 3D a été cruciale pour les énigmes et les puzzles du jeu, offrant ainsi une expérience de jeu immersive et innovante.
   
-- **Multiplayer Interactions:** I implemented mechanisms for smooth multiplayer interactions, fostering cooperation among players to solve puzzles and progress through levels.
+- **Interactions Multijoueurs :** J'ai mis en place des mécanismes permettant des interactions multijoueurs fluides, favorisant la coopération entre les participants pour résoudre les énigmes et progresser dans les niveaux.
   
-- **Graphic Optimization:** In addition to feature development, I ensured graphic optimization to ensure a smooth and visually appealing experience while maintaining gameplay fluidity.
+- **Optimisation Graphique :** En plus du développement des fonctionnalités, j'ai veillé à une optimisation graphique pour garantir une expérience visuelle fluide et attrayante, tout en maintenant la fluidité du gameplay.
 
-This experience was exciting and stimulating, blending creativity and technical skills to bring forth a captivating three-dimensional version of the Pico Park universe.
+Cette expérience a été passionnante et stimulante, alliant créativité et compétences techniques pour donner vie à une version tridimensionnelle captivante de l'univers de Pico Park.
